@@ -1,0 +1,6 @@
+1, 1001, Son Tung MTP, 25
+2, 1002, Justa Tee, 26
+3, 1003, Dam Vinh Hung, 35
+3, 1004, Le Van Luyen, 29
+1, 1005, Nguyen Van Thanh, 30
+2, 1006, Manh, 12
